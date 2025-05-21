@@ -83,7 +83,10 @@ A simple, JSON-backed REST API built with FastAPI to manage policyholders and cl
 
 ## API Documentation
 Swagger UI:
-```bash GET http://localhost:8000/docs
+```bash
+GET http://localhost:8000/docs
 ```
 ReDoc:
-```bash GET http://localhost:8000/redoc```
+```bash
+GET http://localhost:8000/redoc
+```
