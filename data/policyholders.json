@@ -1,0 +1,32 @@
+[
+  {
+    "name": "GST",
+    "policy_type": "Health",
+    "sum_insured": 100000.0,
+    "id": 0
+  },
+  {
+    "name": "AB",
+    "policy_type": "Vehicle",
+    "sum_insured": 10000.0,
+    "id": 1
+  },
+  {
+    "name": "ABC",
+    "policy_type": "Life",
+    "sum_insured": 1000000.0,
+    "id": 2
+  },
+  {
+    "name": "XYZ",
+    "policy_type": "Health",
+    "sum_insured": 90000.0,
+    "id": 3
+  },
+  {
+    "name": "PQR",
+    "policy_type": "Health",
+    "sum_insured": 140000.0,
+    "id": 4
+  }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "policyholder_id": 0,
+        "date_filed": "2025-05-21",
+        "amount": 10000.0,
+        "status": "Pending",
+        "id": 0
+    },
+    {
+        "policyholder_id": 0,
+        "date_filed": "2025-05-21",
+        "amount": 10000.0,
+        "status": "Pending",
+        "id": 1
+    },
+    {
+        "policyholder_id": 0,
+        "date_filed": "2025-05-21",
+        "amount": 10000.0,
+        "status": "Pending",
+        "id": 2
+    },
+    {
+        "policyholder_id": 0,
+        "date_filed": "2025-05-20",
+        "amount": 10000.0,
+        "status": "Pending",
+        "id": 3
+    },
+    {
+        "policyholder_id": 0,
+        "date_filed": "2025-05-19",
+        "amount": 10000.0,
+        "status": "Pending",
+        "id": 4
+    },
+    {
+        "policyholder_id": 1,
+        "date_filed": "2025-05-19",
+        "amount": 1000.0,
+        "status": "Pending",
+        "id": 5
+    },
+    {
+        "policyholder_id": 1,
+        "date_filed": "2025-05-19",
+        "amount": 1000.0,
+        "status": "Pending",
+        "id": 6
+    },
+    {
+        "policyholder_id": 1,
+        "date_filed": "2025-04-19",
+        "amount": 3000.0,
+        "status": "Approved",
+        "id": 7
+    },
+    {
+        "policyholder_id": 1,
+        "date_filed": "2025-03-19",
+        "amount": 3000.0,
+        "status": "Rejected",
+        "id": 8
+    },
+    {
+        "policyholder_id": 2,
+        "date_filed": "2025-05-21",
+        "amount": 900000.0,
+        "status": "Rejected",
+        "id": 9
+    },
+    {
+        "policyholder_id": 3,
+        "date_filed": "2025-03-20",
+        "amount": 11110.0,
+        "status": "Approved",
+        "id": 10
+    },
+    {
+        "policyholder_id": 4,
+        "date_filed": "2025-02-21",
+        "amount": 40000.0,
+        "status": "Pending",
+        "id": 11
+    }
+]
