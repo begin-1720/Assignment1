@@ -54,15 +54,15 @@ A simple, JSON-backed REST API built with FastAPI to manage policyholders and cl
    
 2. install dependencies
   ```bash
-  pip install --no-cache-dir -r requirements.txt ```
+  pip install --no-cache-dir -r requirements.txt 
 
   Running Locally
-  ``bash
-  uvicorn app.main:app --reload```
+  
+  uvicorn app.main:app --reload
 
   Open your browser at http://localhost:8000/docs 
   for Swagger UI, or http://localhost:8000/redoc for ReDoc.
-
+```
 3. Running Tests
   ```bash
   pytest -q
@@ -71,7 +71,7 @@ A simple, JSON-backed REST API built with FastAPI to manage policyholders and cl
 4. Docker
 
   Build the Docker image:
-  ``bash
+  ```bash
   docker build -t insurance-api .
 
   ```
